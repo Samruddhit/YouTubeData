@@ -111,7 +111,7 @@ USE_TZ = True
 #     os.path.join(BASE_DIR,  'templates'),
 # )
 
-DEVELOPER_KEY = "AIzaSyARh_LD390wO9raTVp40HSIiv2l4Pn2yG4"
+DEVELOPER_KEY = "Enter your developer key here"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
